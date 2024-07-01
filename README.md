@@ -22,13 +22,13 @@ The data was cleaned and analyzed using Python. Key steps involved in the analys
 ## Key Metrics
 ### Number of Active Users
 The analysis provides insights into the number of users actively using the flight booking website over a specified period.
-![image](![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/1718aedd-f73b-4a98-b318-28eb77fa53ef)
-)
+![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/1718aedd-f73b-4a98-b318-28eb77fa53ef)
+
 
 ### Number of Ticket Bookings
 This metric shows the total number of tickets booked by users through the website.
-![image](![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/ff082849-0298-41ea-bdb8-e338c42a7796)
-)
+![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/ff082849-0298-41ea-bdb8-e338c42a7796)
+
 
 ### Customer Satisfaction
 Customer satisfaction is analyzed based on user reviews and ratings.
@@ -46,7 +46,7 @@ The error rate indicates the frequency of errors encountered by users while usin
 The Dashboard has 3 pages
 ![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/036f40aa-df19-4cb6-867e-5795ed1b6bc5)
 
-Here the Dashboard link [Google Looker Studio]([https://lookerstudio.google.com/](https://lookerstudio.google.com/u/0/reporting/bf622a33-b66e-4445-ad99-9f4f0c468874/page/edr3D/edit))
+Here the Dashboard link [Google Looker Studio]([https://lookerstudio.google.com/](https://lookerstudio.google.com/u/0/reporting/bf622a33-b66e-4445-ad99-9f4f0c468874/page/edr3D/edit)
 
 ## Conclusion
 This project provides valuable insights into the performance of flight booking websites, helping to identify areas for improvement and optimize user experience.
