@@ -8,6 +8,10 @@ This project is my capstone project for the MSIB Studi Independent Data Scientis
 - Conversion Rate
 - Error Rate
 
+## Dataset
+The dataset used for this project is titled ["Reviews on British Airlines"](https://www.kaggle.com/datasets/minnikeswarrao/british-airlines) It contains data related to customer reviews and ratings of British Airlines.
+You can access the dataset [here](https://www.kaggle.com/datasets/minnikeswarrao/british-airlines).
+
 ## Data Analysis and Processing
 The data was cleaned and analyzed using Python. Key steps involved in the analysis include:
 - Data Cleaning
