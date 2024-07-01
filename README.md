@@ -46,7 +46,7 @@ The error rate indicates the frequency of errors encountered by users while usin
 The Dashboard has 3 pages
 ![image](https://github.com/Saka284/Analyzing-Flight-Booking-Websites/assets/97392722/036f40aa-df19-4cb6-867e-5795ed1b6bc5)
 
-Here the Dashboard link [Google Looker Studio]([https://lookerstudio.google.com/](https://lookerstudio.google.com/u/0/reporting/bf622a33-b66e-4445-ad99-9f4f0c468874/page/edr3D/edit)
+Here the Dashboard link <a href="https://lookerstudio.google.com/u/0/reporting/bf622a33-b66e-4445-ad99-9f4f0c468874/page/edr3D/edit" target="_blank">Google Looker Studio</a>
 
 ## Conclusion
 This project provides valuable insights into the performance of flight booking websites, helping to identify areas for improvement and optimize user experience.
